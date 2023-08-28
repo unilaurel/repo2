@@ -1,2 +1,6 @@
 B1 branch
+<<<<<<< HEAD
 Master
+=======
+B1 
+>>>>>>> b1
